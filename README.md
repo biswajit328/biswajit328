@@ -1,9 +1,7 @@
-# Hi 👋, I'm Biswajit
+
+<h1 align="left">Hello folks! I'm Biswajit</h1>
 
 **Computer Science Undergraduate at Thapar University | Aspiring Software Engineer**
-
-
-
 - 🔭 **I’m currently working on:** Building Machine Learning projects and strengthening problem-solving skills through DSA  
 - 🌱 **I’m currently learning:** Data Structures & Algorithms and Machine Learning (PyTorch)  
 - 👯 **I’m looking to collaborate on:** Open-source projects in AI/ML and problem-solving based applications   
