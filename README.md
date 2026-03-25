@@ -10,7 +10,7 @@
 - ⚡ **Fun fact:** I enjoy solving problems and building real-world tech solutions
    
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/biswajit328) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biswajit_co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajit-mandal328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajit328328@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/biswajit328](https://discord.gg/AzeY22Qp)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biswajit_co) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajit-mandal328) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswajit328328@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
