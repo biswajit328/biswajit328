@@ -10,7 +10,7 @@
 - ⚡ **Fun fact:** I enjoy solving problems and building real-world tech solutions
    
 ## 🌐 Socials:
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/biswajit328" target="_blank">
   <img src="https://cdn.simpleicons.org/github/ffffff" height="40" width="40"/>
 </a>
 
@@ -18,7 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
   </a>
 
-  <a href="https://discord.gg/AzeY22Qp" target="_blank">
+  <a href="https://discord.gg/GTCnHZ8V" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" width="40"/>
   </a>
 
