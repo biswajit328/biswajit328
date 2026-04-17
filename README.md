@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<!-- Snake Game Repo View -->
+<!-- Snake Game Repo View. -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -54,4 +54,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=biswajit328&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
