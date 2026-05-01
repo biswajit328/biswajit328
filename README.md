@@ -1,4 +1,4 @@
-
+![Profile views](https://komarev.com/ghpvc/?username=biswajit328&color=blue)
 <h1 align="left">Hello folks! I'm Biswajit</h1>
 
 **Computer Science Undergraduate at Thapar University | Aspiring Software Engineer**
