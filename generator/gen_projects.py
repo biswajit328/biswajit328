@@ -213,49 +213,49 @@ def generate_all_projects(base_out_dir: str = "profile", mock: bool = True, data
         project_stars = data["project_stars"]
 
     projects = [
-        (
-            "chakravyuh",
-            "Chakravyuh",
-            "Multi-agent RL environment for UPI fraud detection. 7th of 31,000+ teams at the Meta PyTorch Hackathon.",
-            [("PyTorch", "pytorch", False), ("FastAPI", "fastapi", False), ("LoRA", "python", True)],
-            "7aa2f7",  # blue
-        ),
-        (
-            "smart-puc",
-            "Smart PUC",
-            "Blockchain vehicle-emission monitoring with signed OBD telemetry, on-chain records and NFT certificates.",
-            [("Solidity", "solidity", False), ("FastAPI", "fastapi", False), ("Web3.py", "python", True)],
-            "bb9af7",  # purple
-        ),
-        (
-            "v2v",
-            "V2V Communication",
-            "Vehicle-to-vehicle blind-spot detection and accident prevention. Paper under review at Springer Nature.",
-            [("Python", "python", False), ("IoT", "python", True), ("Simulation", "python", True)],
-            "73daca",  # teal
-        ),
-        (
-            "vayunetra",
-            "VayuNetra",
-            "Six-agent AI platform tracing urban PM2.5 to its sources — sensors, satellite and weather fused into one loop.",
-            [("LangChain", "langchain", False), ("React", "react", False), ("RAG", "python", True)],
-            "ff9e64",  # orange
-        ),
-        (
-            "movie-recommender",
-            "Movie Recommender",
-            "Collaborative-filtering recommender with NLTK sentiment analysis. React front-end, Flask back-end.",
-            [("Python", "python", False), ("Flask", "flask", False), ("React", "react", False)],
-            "9ece6a",  # green
-        ),
-        (
-            "fitness-tracker",
-            "Fitness Tracker",
-            "Diet, sleep and workout logging with BMI calculator and Chart.js progress analytics.",
-            [("JavaScript", "javascript", False), ("Chart.js", "javascript", True), ("HTML5", "javascript", True)],
-            "7dcfff",  # cyan
-        ),
-    ]
+    (
+        "hospital-drug-env",
+        "Hospital Drug Env",
+        "OpenEnv benchmark for hospital drug allocation using reinforcement learning under scarcity, triage and uncertainty.",
+        [("Python", "python", False), ("FastAPI", "fastapi", False), ("RL", "python", True)],
+        "7aa2f7",
+    ),
+    (
+        "smart-factory",
+        "Smart Factory AI",
+        "Neural predictive maintenance platform with real-time streaming, FastAPI and deep learning for industrial equipment.",
+        [("Python", "python", False), ("FastAPI", "fastapi", False), ("Docker", "docker", False)],
+        "73daca",
+    ),
+    (
+        "portfolio",
+        "ML Portfolio",
+        "Collection of machine learning, deep learning and computer vision projects with production-ready implementations.",
+        [("Python", "python", False), ("PyTorch", "pytorch", False), ("TensorFlow", "tensorflow", False)],
+        "bb9af7",
+    ),
+    (
+        "leetcode",
+        "DSA Journey",
+        "Solving data structures and algorithms problems while preparing for software engineering interviews.",
+        [("C++", "cplusplus", False), ("Algorithms", "python", True), ("LeetCode", "python", True)],
+        "ff9e64",
+    ),
+    (
+        "fastapi",
+        "Backend APIs",
+        "REST APIs built with FastAPI featuring authentication, Docker deployment and scalable backend architecture.",
+        [("FastAPI", "fastapi", False), ("Docker", "docker", False), ("Python", "python", False)],
+        "9ece6a",
+    ),
+    (
+        "opensource",
+        "Open Source",
+        "Open-source repositories focused on AI, machine learning and developer tooling.",
+        [("Git", "git", False), ("GitHub", "github", False), ("OSS", "python", True)],
+        "7dcfff",
+    ),
+]
 
     for project_key, title, desc, chips, color in projects:
         out_path = os.path.join(base_out_dir, f"project-{project_key}.svg")

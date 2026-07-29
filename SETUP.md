@@ -21,7 +21,7 @@ The profile README lives in a **special repo named exactly after your username**
 
 ```bash
 # create the repo on GitHub named:  omkarrr88/omkarrr88   (Public, add a README)
-git clone https://github.com/omkarrr88/omkarrr88.git
+git clone https://github.com/biswajit328/omkarrr88.git
 cd omkarrr88
 cp /home/omkar-kadam/Desktop/github-profile/README.md .
 git add README.md
@@ -29,7 +29,7 @@ git commit -m "New profile README"
 git push
 ```
 
-Open https://github.com/omkarrr88 — it renders on your profile.
+Open https://github.com/biswajit328 — it renders on your profile.
 
 ---
 

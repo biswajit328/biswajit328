@@ -517,13 +517,9 @@ def _get_all_project_stars() -> Dict[str, Optional[int]]:
     Returns dict mapping project key to star count (None if fetch failed).
     """
     project_repos = {
-        "chakravyuh": "UjjwalPardeshi/Chakravyuh",
-        "smart-puc": "omkarrr88/Smart_PUC",
-        "v2v": "omkarrr88/V2V",
-        "movie-recommender": "omkarrr88/movie-recommendation-system",
-        "vayunetra": "omkarrr88/VayuNetra",
-        "fitness-tracker": "omkarrr88/Fitness-Tracker",
-    }
+    "hospital-drug-env": "biswajit328/hospital_drug_env",
+    "smart-factory": "biswajit328/smart-factory-predictive-maintenance",
+}
 
     stars = {}
     for key, repo_path in project_repos.items():
@@ -543,7 +539,7 @@ def load(mock: bool = False) -> Dict[str, Any]:
         Dict with user, stats, calendar, streak, languages, project_stars.
         On any error, returns fallback mock data (never hard fails).
     """
-    login = "omkarrr88"
+    login = "biswajit328"
     token = os.getenv("GITHUB_TOKEN")
 
     if mock:
@@ -553,7 +549,7 @@ def load(mock: bool = False) -> Dict[str, Any]:
 
         return {
             "user": {
-                "name": "Omkar Kadam",
+                "name": "Biswajit Mandal",
                 "login": login,
                 "followers": 42,
                 "public_repos": 17,
