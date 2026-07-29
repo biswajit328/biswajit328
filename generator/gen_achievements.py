@@ -104,22 +104,22 @@ g.achievement-glyph {
 
     # Achievement data: (glyph_color, title, detail)
     achievements = [
-        (
-            PALETTE["orange"],
-            "7th of 31,000+ teams",
-            "Meta PyTorch Hackathon - Chakravyuh",
-        ),
-        (
-            PALETTE["cyan"],
-            "Springer Nature (in review)",
-            "V2V collision-risk research - Discover IoT",
-        ),
-        (
-            PALETTE["green"],
-            "Avishkar 2025 Finalist",
-            "Research Competition - Mumbai University",
-        ),
-    ]
+    (
+        PALETTE["orange"],
+        "OpenEnv RL Benchmark",
+        "Hospital Drug Shortage Environment",
+    ),
+    (
+        PALETTE["cyan"],
+        "AI/ML Projects",
+        "Predictive Maintenance & Deep Learning",
+    ),
+    (
+        PALETTE["green"],
+        "B.Tech Computer Engineering",
+        "AI • Machine Learning • Software Development",
+    ),
+]
 
     # Render achievement rows
     row_height = 48
