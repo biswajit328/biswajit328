@@ -227,34 +227,6 @@ def generate_all_projects(base_out_dir: str = "profile", mock: bool = True, data
         [("Python", "python", False), ("FastAPI", "fastapi", False), ("Docker", "docker", False)],
         "73daca",
     ),
-    (
-        "portfolio",
-        "ML Portfolio",
-        "Collection of machine learning, deep learning and computer vision projects with production-ready implementations.",
-        [("Python", "python", False), ("PyTorch", "pytorch", False), ("TensorFlow", "tensorflow", False)],
-        "bb9af7",
-    ),
-    (
-        "leetcode",
-        "DSA Journey",
-        "Solving data structures and algorithms problems while preparing for software engineering interviews.",
-        [("C++", "cplusplus", False), ("Algorithms", "python", True), ("LeetCode", "python", True)],
-        "ff9e64",
-    ),
-    (
-        "fastapi",
-        "Backend APIs",
-        "REST APIs built with FastAPI featuring authentication, Docker deployment and scalable backend architecture.",
-        [("FastAPI", "fastapi", False), ("Docker", "docker", False), ("Python", "python", False)],
-        "9ece6a",
-    ),
-    (
-        "opensource",
-        "Open Source",
-        "Open-source repositories focused on AI, machine learning and developer tooling.",
-        [("Git", "git", False), ("GitHub", "github", False), ("OSS", "python", True)],
-        "7dcfff",
-    ),
 ]
 
     for project_key, title, desc, chips, color in projects:

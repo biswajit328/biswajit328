@@ -53,8 +53,8 @@ g.achievement-glyph {
 <circle cx="28" cy="52" r="2" fill="#b15c00"/>
 <circle cx="48" cy="52" r="2" fill="#b15c00"/>
 </g>
-<text x="66" y="59" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">7th of 31,000+ teams</text>
-<text x="66" y="73" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">Meta PyTorch Hackathon - Chakravyuh</text>
+<text x="66" y="59" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">OpenEnv RL Benchmark</text>
+<text x="66" y="73" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">Hospital Drug Shortage Environment</text>
 </g>
 <g class="achievement-row">
 <rect x="22" y="94" width="32" height="32" rx="8" fill="#f3f4f8" stroke="#d0d7de" stroke-width="1"/>
@@ -64,15 +64,15 @@ g.achievement-glyph {
 <line x1="33" y1="110" x2="43" y2="110" stroke="#0369a1" stroke-width="1"/>
 <line x1="33" y1="116" x2="43" y2="116" stroke="#0369a1" stroke-width="1"/>
 </g>
-<text x="66" y="107" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">Springer Nature (in review)</text>
-<text x="66" y="121" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">V2V collision-risk research - Discover IoT</text>
+<text x="66" y="107" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">AI/ML Projects</text>
+<text x="66" y="121" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">Predictive Maintenance &amp; Deep Learning</text>
 </g>
 <g class="achievement-row">
 <rect x="22" y="142" width="32" height="32" rx="8" fill="#f3f4f8" stroke="#d0d7de" stroke-width="1"/>
 <g class="achievement-glyph" style="color: #587539;">
 <path d="M 38 146 L 40 154 L 48 154 L 42 159 L 44 167 L 38 162 L 32 167 L 34 159 L 28 154 L 36 154 Z" fill="#587539"/>
 </g>
-<text x="66" y="155" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">Avishkar 2025 Finalist</text>
-<text x="66" y="169" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">Research Competition - Mumbai University</text>
+<text x="66" y="155" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="13" font-weight="600" fill="#24292f">B.Tech Computer Engineering</text>
+<text x="66" y="169" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781">AI • Machine Learning • Software Development</text>
 </g>
 </svg>

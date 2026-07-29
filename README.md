@@ -80,34 +80,6 @@ I'm a **B.Tech Computer Engineering student** passionate about **Artificial Inte
   </a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-portfolio.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-portfolio.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-portfolio.svg" alt="ML Portfolio">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-leetcode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-leetcode.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-leetcode.svg" alt="DSA Journey">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fastapi.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-fastapi.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fastapi.svg" alt="Backend APIs">
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-opensource.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-opensource.svg">
-    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-opensource.svg" alt="Open Source">
-  </picture>
-</p>
-
 > 🚀 **Currently Working On:** OpenEnv RL Benchmark • Smart Factory AI • DSA & System Design • AI Engineering
 
 ---
