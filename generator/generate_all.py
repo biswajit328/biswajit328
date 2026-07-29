@@ -109,13 +109,9 @@ def render_all(data: Dict[str, Any], out_dir: str = "profile", theme: str = "dar
     try:
         gen_projects.render_all(data, out_dir)
         project_files = [
-            f"{out_dir}/project-chakravyuh.svg",
-            f"{out_dir}/project-v2v.svg",
-            f"{out_dir}/project-face-attendance.svg",
-            f"{out_dir}/project-movie-recommender.svg",
-            f"{out_dir}/project-fitness-tracker.svg",
-            f"{out_dir}/project-smart-puc.svg",
-        ]
+    f"{out_dir}/project-hospital-drug-env.svg",
+    f"{out_dir}/project-smart-factory.svg",
+]
         results.append(("projects", True, f"{len(project_files)} files"))
         print(f"✓ {'projects':20} → {len(project_files)} project files")
     except Exception as e:
