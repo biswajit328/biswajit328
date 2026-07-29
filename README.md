@@ -63,19 +63,52 @@ I'm a **B.Tech Computer Engineering student** passionate about **Artificial Inte
 <h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-projects.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/section-projects.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-projects.svg" alt="Featured Projects"></picture></h2>
 
 <p align="center">
-  <a href="https://github.com/UjjwalPardeshi/Chakravyuh"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-chakravyuh.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-chakravyuh.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-chakravyuh.svg" alt="Chakravyuh — multi-agent RL for UPI fraud detection"></picture></a>
-  <a href="https://github.com/biswajit328/Smart_PUC"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-smart-puc.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-smart-puc.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-smart-puc.svg" alt="Smart PUC — blockchain vehicle-emission monitoring"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/biswajit328/V2V"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-v2v.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-v2v.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-v2v.svg" alt="V2V Communication — blind-spot detection research"></picture></a>
-  <a href="https://github.com/biswajit328/VayuNetra"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-vayunetra.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-vayunetra.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-vayunetra.svg" alt="VayuNetra — six-agent AI for urban air-quality intelligence"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/biswajit328/movie-recommendation-system"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-movie-recommender.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-movie-recommender.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-movie-recommender.svg" alt="Movie Recommender — collaborative filtering with sentiment analysis"></picture></a>
-  <a href="https://github.com/biswajit328/Fitness-Tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fitness-tracker.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-fitness-tracker.svg"><img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fitness-tracker.svg" alt="Fitness Tracker — diet, sleep and workout analytics"></picture></a>
+  <a href="https://github.com/biswajit328/hospital_drug_env">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-hospital-drug-env.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-hospital-drug-env.svg">
+      <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-hospital-drug-env.svg" alt="Hospital Drug Environment">
+    </picture>
+  </a>
+
+  <a href="https://github.com/biswajit328/smart-factory-predictive-maintenance">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-smart-factory.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-smart-factory.svg">
+      <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-smart-factory.svg" alt="Smart Factory AI">
+    </picture>
+  </a>
 </p>
 
-> 💼 **At work (private repos):** a **Shopify gold-price automation engine** (55,000+ variants priced twice daily, fully unattended) and an **enterprise Invoice & Payment portal** (slab-based discounts, UTR verification, 5 user roles).
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-portfolio.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-portfolio.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-portfolio.svg" alt="ML Portfolio">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-leetcode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-leetcode.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-leetcode.svg" alt="DSA Journey">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fastapi.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-fastapi.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-fastapi.svg" alt="Backend APIs">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-opensource.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-opensource.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-opensource.svg" alt="Open Source">
+  </picture>
+</p>
+
+> 🚀 **Currently Working On:** OpenEnv RL Benchmark • Smart Factory AI • DSA & System Design • AI Engineering
 
 ---
 
@@ -111,7 +144,7 @@ I'm a **B.Tech Computer Engineering student** passionate about **Artificial Inte
 ---
 
 <p align="center">
-  <sub>Every card above is drawn by <a href="https://github.com/biswajit328/omkarrr88/tree/main/generator">my own SVG generator</a> — dark & light variants, no external image services, refreshed daily by GitHub Actions.</sub>
+  <sub>Every card above is drawn by <a href="https://github.com/biswajit328/biswajit328/tree/main/generator">my own SVG generator</a> — dark & light variants, no external image services, refreshed daily by GitHub Actions.</sub>
 </p>
 
 <p align="center"><i>"Strive not to be a success, but rather to be of value." — Albert Einstein</i></p>
