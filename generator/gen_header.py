@@ -40,12 +40,12 @@ def generate_header(out_path: str, mock: bool = True, include_animations: bool =
 
     # Typing phrases (4 phrases, ~3s each + 1.2s pause per phrase)
     # Plain characters only — esc() is applied at render time.
-    phrases = [
-        "Full Stack Engineer @ Riamona",
-        "7th of 31,000+ - Meta PyTorch Hackathon",
-        "React | Node | Python | PostgreSQL",
-        "ML Enthusiast & Automation Builder",
-        "IT Engineer - Mumbai University '26"
+    phrases = [  
+    "AI & Machine Learning Engineer",
+    "B.Tech Computer Engineering Student",
+    "Python | C++ | FastAPI | PyTorch",
+    "Building Real-World AI Systems",
+    "Open Source Contributor"
     ]
 
     # Calculate animation timing
@@ -148,7 +148,7 @@ def generate_header(out_path: str, mock: bool = True, include_animations: bool =
     cx = width // 2
 
     # Main name headline "Omkar Kadam"
-    svg_parts.append(f'<text x="{cx}" y="50" text-anchor="middle" font-family="{FONT}" font-size="32" font-weight="700" fill="{PALETTE["blue"]}">Omkar Kadam</text>')
+    svg_parts.append(f'<text x="{cx}" y="50" text-anchor="middle" font-family="{FONT}" font-size="32" font-weight="700" fill="{PALETTE["blue"]}">Biswajit Mandal</text>')
 
     # Gradient underline under name (centered)
     svg_parts.append(f'<rect x="{cx - 140}" y="58" width="280" height="3" fill="url(#nameGradient)" rx="1.5"/>')
@@ -178,7 +178,7 @@ def generate_header(out_path: str, mock: bool = True, include_animations: bool =
     svg_parts.append(f'<circle cx="{cx - 132}" cy="136" r="3.5" fill="{PALETTE["green"]}" class="pulse-dot"/>')
     svg_parts.append(f'<text x="{cx - 122}" y="140" font-family="{FONT}" font-size="11" font-weight="500" fill="{PALETTE["text"]}">Available for work</text>')
     svg_parts.append(f'<line x1="{cx - 10}" y1="128" x2="{cx - 10}" y2="140" stroke="{PALETTE["border"]}" stroke-width="1"/>')
-    svg_parts.append(f'<text x="{cx + 2}" y="140" font-family="{FONT}" font-size="11" font-weight="400" fill="{PALETTE["text"]}">📍 Navi Mumbai, India</text>')
+    svg_parts.append(f'<text x="{cx + 2}" y="140" font-family="{FONT}" font-size="11" font-weight="400" fill="{PALETTE["text"]}">📍 Kolkata, India</text>')
 
     svg_parts.append('</svg>')
 

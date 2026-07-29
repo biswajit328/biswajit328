@@ -8,35 +8,46 @@
 <!-- ============================================================== -->
 
 <p align="center">
-  <a href="https://omkar-kadam.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/header.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/header.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/header.svg" alt="Omkar Kadam — Full Stack Engineer"></picture></a>
+  <a href="https://github.com/biswajit328"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/header.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/header.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/header.svg" alt="Biswajit Mandal — AI & Machine Learning Engineer"></picture></a>
 </p>
 
 ---
 
 <h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-about.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/section-about.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-about.svg" alt="About Me"></picture></h2>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/terminal.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/terminal.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/terminal.svg" alt="Terminal intro: whoami — Full Stack Engineer; achievements — 7th of 31,000+ at Meta PyTorch Hackathon, Springer Nature paper, Avishkar finals"></picture></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/terminal.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/terminal.svg">
+    <img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/terminal.svg"
+         alt="Terminal intro: Biswajit Mandal — AI & Machine Learning Engineer">
+  </picture>
+</p>
 
-I'm an **IT Engineer** (BE, Terna Engineering College — Mumbai University, 2026) working as a **Full Stack Engineer at Riamona Luxury & Fashion Brands**, where I build full-stack products end to end — the code, the tests, the CI/CD, and running them in production.
+I'm a **B.Tech Computer Engineering student** passionate about **Artificial Intelligence, Machine Learning, Reinforcement Learning, and Backend Development**.
 
-- 🔭 **Currently building:** internal SaaS products with React, Node.js, Python, Prisma & PostgreSQL
-- 🏆 **7th out of 31,000+ teams** at the **Meta PyTorch Hackathon** — built *Chakravyuh*, a multi-agent RL environment for UPI fraud detection
-- 📄 **Co-authored a research paper** on V2V collision-risk indexing — under review at *Discover Internet of Things* (Springer Nature)
-- 🎓 **Finalist** — Avishkar 2025 Research Competition, Mumbai University
-- 🌱 Into **automation, full-stack development, ML, and system design**
-- 📫 **omkarkadam181188@gmail.com** · 📄 [Resume](https://omkar-kadam.vercel.app/resume.pdf)
+- 🔭 Currently building **Hospital Drug Environment** (OpenEnv RL Benchmark)
+- 🤖 Building **Smart Factory Predictive Maintenance** using Deep Learning
+- 💻 Solving DSA problems in C++
+- 🌱 Learning System Design, AI Engineering & MLOps
+- 🎯 Goal: Software Development Engineer (SDE) + AI/ML Engineer
 
 ---
 
 <h2 align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-connect.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/section-connect.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/section-connect.svg" alt="Connect With Me"></picture></h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkarrrr"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-linkedin.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-linkedin.svg" alt="LinkedIn"></picture></a>
-  <a href="https://twitter.com/omkarrr_88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-x.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-x.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-x.svg" alt="X (Twitter)"></picture></a>
-  <a href="https://instagram.com/omkarrr_88"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-instagram.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-instagram.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-instagram.svg" alt="Instagram"></picture></a>
-  <a href="https://omkar-kadam.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-portfolio.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-portfolio.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-portfolio.svg" alt="Portfolio"></picture></a>
-  <a href="mailto:omkarkadam181188@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-email.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-email.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-email.svg" alt="Email"></picture></a>
-  <a href="https://omkar-kadam.vercel.app/resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-resume.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-resume.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-resume.svg" alt="Resume"></picture></a>
+  <a href="https://www.linkedin.com/in/biswajit-mandal328"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-linkedin.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-linkedin.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-linkedin.svg" alt="LinkedIn"></picture></a>
+  <a href="https://twitter.com/biswajit328328"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-x.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-x.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-x.svg" alt="X (Twitter)"></picture></a>
+  <a href="https://instagram.com/noviq_x"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-instagram.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-instagram.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-instagram.svg" alt="Instagram"></picture></a>
+  <a href="mailto:biswajit328328@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-email.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-email.svg"><img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-email.svg" alt="Email"></picture></a>
+  <a href="https://github.com/biswajit328/biswajit328/raw/main/Biswajit_Mandal_CV.pdf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-resume.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/connect-resume.svg">
+    <img src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/connect-resume.svg" alt="Resume">
+  </picture>
+</a>
 </p>
 
 ---

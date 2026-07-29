@@ -35,20 +35,31 @@ def render(data: dict, out_path: str) -> None:
 def generate_terminal(out_path: str) -> None:
     # (kind, text) — kind: cmd | out | blank
     lines = [
-        ("cmd", "whoami"),
-        ("out", "omkar-kadam — Full Stack Engineer @ Riamona Luxury & Fashion Brands"),
-        ("blank", ""),
-        ("cmd", "ls achievements/"),
-        ("out", "meta-pytorch-hackathon/   → 7th of 31,000+ teams (Chakravyuh)"),
-        ("out", "springer-nature/          → V2V collision-risk paper, in review"),
-        ("out", "avishkar-2025/            → research finals, Mumbai University"),
-        ("blank", ""),
-        ("cmd", "cat stack.txt"),
-        ("out", "React · Node.js · Python · PostgreSQL · FastAPI · RAG/LLM apps"),
-        ("blank", ""),
-        ("cmd", "uptime"),
-        ("out", "shipping production systems since Jan 2026 — fully unattended"),
-    ]
+    ("cmd", "whoami"),
+    ("out", "Biswajit Mandal — AI & Machine Learning Engineer"),
+
+    ("blank", ""),
+
+    ("cmd", "education"),
+    ("out", "B.Tech Computer Engineering"),
+    ("out", "Currently pursuing undergraduate studies"),
+
+    ("blank", ""),
+
+    ("cmd", "current_projects"),
+    ("out", "hospital_drug_env  → OpenEnv Reinforcement Learning Benchmark"),
+    ("out", "smart_factory_ai  → Neural Predictive Maintenance Platform"),
+
+    ("blank", ""),
+
+    ("cmd", "skills"),
+    ("out", "Python · C++ · FastAPI · PyTorch · Machine Learning · Deep Learning"),
+
+    ("blank", ""),
+
+    ("cmd", "career_goal"),
+    ("out", "Software Development Engineer (SDE) + AI/ML Engineer"),
+]
 
     height = BODY_TOP + len(lines) * LINE_H + 30
 
@@ -113,7 +124,7 @@ def generate_terminal(out_path: str) -> None:
         f'\n<circle cx="44" cy="{BAR_H / 2}" r="5.5" fill="{PALETTE["orange"]}"/>'
         f'\n<circle cx="64" cy="{BAR_H / 2}" r="5.5" fill="{PALETTE["green"]}"/>'
         f'\n<text x="{WIDTH / 2}" y="{BAR_H / 2 + 4}" text-anchor="middle" font-family="{MONO}" '
-        f'font-size="12" fill="{PALETTE["muted"]}">omkar@github: ~</text>'
+        f'font-size="12" fill="{PALETTE["muted"]}">biswajit@github: ~</text>'
     )
     svg += body
     svg += "\n</svg>"
