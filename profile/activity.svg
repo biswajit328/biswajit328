@@ -25,8 +25,8 @@
   <text x="-10" y="109.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="end">5</text>
   <line x1="0" y1="140.0" x2="840.0" y2="140.0" stroke="#2f334d" stroke-width="1" opacity="0.5"/>
   <text x="-10" y="144.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="end">0</text>
-  <path d="M 0.0 140.0 L 32.3 140.0 L 64.6 140.0 L 96.9 140.0 L 129.2 140.0 L 161.5 140.0 L 193.8 140.0 L 226.2 100.0 L 258.5 126.7 L 290.8 0.0 L 323.1 120.0 L 355.4 80.0 L 387.7 40.0 L 420.0 133.3 L 452.3 140.0 L 484.6 140.0 L 516.9 140.0 L 549.2 140.0 L 581.5 140.0 L 613.8 140.0 L 646.2 140.0 L 678.5 140.0 L 710.8 140.0 L 743.1 140.0 L 775.4 140.0 L 807.7 60.0 L 840.0 140.0 L 840.0 140.0 L 0.0 140.0 Z" fill="#7aa2f7" fill-opacity="0.15" stroke="none"/>
-  <path id="activity-line" d="M 0.0 140.0 L 32.3 140.0 L 64.6 140.0 L 96.9 140.0 L 129.2 140.0 L 161.5 140.0 L 193.8 140.0 L 226.2 100.0 L 258.5 126.7 L 290.8 0.0 L 323.1 120.0 L 355.4 80.0 L 387.7 40.0 L 420.0 133.3 L 452.3 140.0 L 484.6 140.0 L 516.9 140.0 L 549.2 140.0 L 581.5 140.0 L 613.8 140.0 L 646.2 140.0 L 678.5 140.0 L 710.8 140.0 L 743.1 140.0 L 775.4 140.0 L 807.7 60.0 L 840.0 140.0" stroke="#7aa2f7" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 0.0 140.0 L 32.3 140.0 L 64.6 140.0 L 96.9 140.0 L 129.2 140.0 L 161.5 140.0 L 193.8 140.0 L 226.2 100.0 L 258.5 126.7 L 290.8 0.0 L 323.1 120.0 L 355.4 73.3 L 387.7 40.0 L 420.0 140.0 L 452.3 140.0 L 484.6 140.0 L 516.9 140.0 L 549.2 140.0 L 581.5 140.0 L 613.8 140.0 L 646.2 140.0 L 678.5 140.0 L 710.8 140.0 L 743.1 140.0 L 775.4 140.0 L 807.7 60.0 L 840.0 140.0 L 840.0 140.0 L 0.0 140.0 Z" fill="#7aa2f7" fill-opacity="0.15" stroke="none"/>
+  <path id="activity-line" d="M 0.0 140.0 L 32.3 140.0 L 64.6 140.0 L 96.9 140.0 L 129.2 140.0 L 161.5 140.0 L 193.8 140.0 L 226.2 100.0 L 258.5 126.7 L 290.8 0.0 L 323.1 120.0 L 355.4 73.3 L 387.7 40.0 L 420.0 140.0 L 452.3 140.0 L 484.6 140.0 L 516.9 140.0 L 549.2 140.0 L 581.5 140.0 L 613.8 140.0 L 646.2 140.0 L 678.5 140.0 L 710.8 140.0 L 743.1 140.0 L 775.4 140.0 L 807.7 60.0 L 840.0 140.0" stroke="#7aa2f7" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
   <circle r="6" fill="#bb9af7" opacity="0.25">
     <animateMotion dur="8s" repeatCount="indefinite"><mpath href="#activity-line"/></animateMotion>
   </circle>
@@ -44,9 +44,9 @@
   <circle cx="258.5" cy="126.7" r="3" fill="#bb9af7" class="dot dot-8"/>
   <circle cx="290.8" cy="0.0" r="3" fill="#bb9af7" class="dot dot-9"/>
   <circle cx="323.1" cy="120.0" r="3" fill="#bb9af7" class="dot dot-10"/>
-  <circle cx="355.4" cy="80.0" r="3" fill="#bb9af7" class="dot dot-11"/>
+  <circle cx="355.4" cy="73.3" r="3" fill="#bb9af7" class="dot dot-11"/>
   <circle cx="387.7" cy="40.0" r="3" fill="#bb9af7" class="dot dot-12"/>
-  <circle cx="420.0" cy="133.3" r="3" fill="#bb9af7" class="dot dot-13"/>
+  <circle cx="420.0" cy="140.0" r="3" fill="#bb9af7" class="dot dot-13"/>
   <circle cx="452.3" cy="140.0" r="3" fill="#bb9af7" class="dot dot-14"/>
   <circle cx="484.6" cy="140.0" r="3" fill="#bb9af7" class="dot dot-15"/>
   <circle cx="516.9" cy="140.0" r="3" fill="#bb9af7" class="dot dot-16"/>
@@ -69,5 +69,6 @@
   <text x="420.0" y="160.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="middle">May</text>
   <text x="581.5" y="160.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="middle">Jun</text>
   <text x="710.8" y="160.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="middle">Jul</text>
+  <text x="840.0" y="160.0" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#565f89" text-anchor="middle">Aug</text>
 </g>
 </svg>
