@@ -78,7 +78,7 @@ I'm a **B.Tech Computer Engineering student** passionate about **Artificial Inte
       <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-smart-factory.svg" alt="Smart Factory AI">
     </picture>
   </a>
-  <a href="https://github.com/biswajit328/nexora">
+  <a href="https://github.com/biswajit328/ucs503p-202627-campus-opportunity-radar">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-nexora.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-nexora.svg">
