@@ -16,10 +16,10 @@
 <text x="54" y="30" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="16" font-weight="600" fill="#7aa2f7">Top Languages</text>
 </g>
 <g style="animation: slideUp 0.4s ease-out forwards;">
-<rect x="22" y="50" width="241.7777777777778" height="11" fill="#DA5B0B" rx="2.5"/>
-<rect x="263.7777777777778" y="50" width="126.19819819819821" height="11" fill="#3572A5" rx="2.5"/>
-<rect x="389.97597597597604" y="50" width="21.645645645645647" height="11" fill="#f34b7d" rx="2.5"/>
-<rect x="411.62162162162167" y="50" width="18.37837837837838" height="11" fill="#e34c26" rx="2.5"/>
+<rect x="22" y="50" width="241.77777777777777" height="11" fill="#DA5B0B" rx="2.5"/>
+<rect x="263.77777777777777" y="50" width="126.19819819819818" height="11" fill="#3572A5" rx="2.5"/>
+<rect x="389.975975975976" y="50" width="21.645645645645644" height="11" fill="#f34b7d" rx="2.5"/>
+<rect x="411.6216216216216" y="50" width="18.37837837837838" height="11" fill="#e34c26" rx="2.5"/>
 </g>
 <g style="animation: slideUp 0.5s ease-out forwards; animation-delay: 100ms;">
 <text x="22" y="74" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="12" fill="#c0caf5">Jupyter Notebook</text>
