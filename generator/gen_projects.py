@@ -227,6 +227,13 @@ def generate_all_projects(base_out_dir: str = "profile", mock: bool = True, data
         [("Python", "python", False), ("FastAPI", "fastapi", False), ("Docker", "docker", False)],
         "73daca",
     ),
+    (
+        "nexora",
+        "Nexora",
+        "AI-powered platform that discovers, filters and ranks personalized student opportunities with explainable recommendations.",
+        [("React", "react", False), ("FastAPI", "fastapi", False), ("PostgreSQL", "postgresql", False)],
+        "bb86fc",
+    ),
 ]
 
     for project_key, title, desc, chips, color in projects:
