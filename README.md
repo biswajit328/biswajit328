@@ -82,7 +82,7 @@ I'm a **B.Tech Computer Engineering student** passionate about **Artificial Inte
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-nexora.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/light/project-nexora.svg">
-      <img width="49%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-nexora.svg" alt="Nexora">
+      <img width="100%" src="https://raw.githubusercontent.com/biswajit328/biswajit328/main/profile/project-nexora.svg" alt="Nexora">
     </picture>
 </a>
 </p>
