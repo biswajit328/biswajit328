@@ -22,7 +22,7 @@
   <rect id="cell-2" x="71.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.005;0.970;1.000" values="1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-3" x="71.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-3" x="71.0" y="70.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.008;0.970;1.000" values="1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-4" x="71.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -106,10 +106,10 @@
   <rect id="cell-30" x="131.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.072;0.082;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-31" x="131.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-31" x="131.0" y="70.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.075;0.085;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-32" x="131.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-32" x="131.0" y="85.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.078;0.088;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-33" x="131.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -460,10 +460,10 @@
   <rect id="cell-148" x="386.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.408;0.418;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-149" x="386.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-149" x="386.0" y="55.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.405;0.415;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-150" x="386.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-150" x="386.0" y="70.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.402;0.412;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-151" x="386.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -478,7 +478,7 @@
   <rect id="cell-154" x="401.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.413;0.423;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-155" x="401.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-155" x="401.0" y="40.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.416;0.426;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-156" x="401.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -493,31 +493,31 @@
   <rect id="cell-159" x="401.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.427;0.437;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-160" x="401.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-160" x="401.0" y="115.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.430;0.440;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-161" x="416.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-161" x="416.0" y="25.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.449;0.459;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-162" x="416.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-162" x="416.0" y="40.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.446;0.456;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-163" x="416.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-163" x="416.0" y="55.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.443;0.453;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-164" x="416.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-164" x="416.0" y="70.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.441;0.451;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-165" x="416.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.438;0.448;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-166" x="416.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-166" x="416.0" y="100.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.435;0.445;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-167" x="416.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.432;0.442;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-168" x="431.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-168" x="431.0" y="25.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.452;0.462;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-169" x="431.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -532,13 +532,13 @@
   <rect id="cell-172" x="431.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.463;0.473;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-173" x="431.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-173" x="431.0" y="100.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.465;0.475;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-174" x="431.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-174" x="431.0" y="115.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.468;0.478;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-175" x="446.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-175" x="446.0" y="25.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.487;0.497;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-176" x="446.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -550,10 +550,10 @@
   <rect id="cell-178" x="446.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.479;0.489;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-179" x="446.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-179" x="446.0" y="85.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.476;0.486;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-180" x="446.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-180" x="446.0" y="100.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.474;0.484;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-181" x="446.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -565,13 +565,13 @@
   <rect id="cell-183" x="461.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.493;0.503;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-184" x="461.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-184" x="461.0" y="55.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.495;0.505;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-185" x="461.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-185" x="461.0" y="70.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.498;0.508;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-186" x="461.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-186" x="461.0" y="85.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.501;0.511;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-187" x="461.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -838,7 +838,7 @@
   <rect id="cell-274" x="656.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.754;0.764;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-275" x="656.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-275" x="656.0" y="55.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.751;0.761;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-276" x="656.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -886,70 +886,70 @@
   <rect id="cell-290" x="686.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.787;0.797;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-291" x="686.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-291" x="686.0" y="85.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.784;0.794;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-292" x="686.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-292" x="686.0" y="100.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.781;0.791;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-293" x="686.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-293" x="686.0" y="115.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.778;0.788;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-294" x="701.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-294" x="701.0" y="25.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.798;0.808;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-295" x="701.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-295" x="701.0" y="40.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.800;0.810;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-296" x="701.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.803;0.813;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-297" x="701.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-297" x="701.0" y="70.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.806;0.816;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-298" x="701.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-298" x="701.0" y="85.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.809;0.819;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-299" x="701.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-299" x="701.0" y="100.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.811;0.821;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-300" x="701.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-300" x="701.0" y="115.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.814;0.824;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-301" x="716.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-301" x="716.0" y="25.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.833;0.843;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-302" x="716.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-302" x="716.0" y="40.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.831;0.841;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-303" x="716.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-303" x="716.0" y="55.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.828;0.838;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-304" x="716.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.825;0.835;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-305" x="716.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-305" x="716.0" y="85.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.822;0.832;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-306" x="716.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-306" x="716.0" y="100.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.820;0.830;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-307" x="716.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.817;0.827;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-308" x="731.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-308" x="731.0" y="25.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.836;0.846;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-309" x="731.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-309" x="731.0" y="40.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.839;0.849;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-310" x="731.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-310" x="731.0" y="55.0" width="12" height="12" rx="2.5" fill="#778e5f" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.842;0.852;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-311" x="731.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.844;0.854;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-312" x="731.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-312" x="731.0" y="85.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.847;0.857;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-313" x="731.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1006,7 +1006,7 @@
   <rect id="cell-330" x="776.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.908;0.918;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-331" x="776.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-331" x="776.0" y="55.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.905;0.915;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-332" x="776.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1015,10 +1015,10 @@
   <rect id="cell-333" x="776.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.899;0.909;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-334" x="776.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-334" x="776.0" y="100.0" width="12" height="12" rx="2.5" fill="#587539" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.897;0.907;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-335" x="776.0" y="115.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-335" x="776.0" y="115.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.894;0.904;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-336" x="791.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1045,7 +1045,7 @@
   <rect id="cell-343" x="806.0" y="25.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.940;0.950;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-344" x="806.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-344" x="806.0" y="40.0" width="12" height="12" rx="2.5" fill="#96a785" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.940;0.950;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-345" x="806.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1054,7 +1054,7 @@
   <rect id="cell-346" x="806.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.940;0.950;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-347" x="806.0" y="85.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-347" x="806.0" y="85.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.938;0.948;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-348" x="806.0" y="100.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1069,7 +1069,7 @@
   <rect id="cell-351" x="821.0" y="40.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.940;0.950;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
-  <rect id="cell-352" x="821.0" y="55.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
+  <rect id="cell-352" x="821.0" y="55.0" width="12" height="12" rx="2.5" fill="#b5c1ab" stroke="#d0d7de" stroke-width="0.5">
     <animate attributeName="opacity" dur="26s" repeatCount="indefinite" keyTimes="0.000;0.940;0.950;0.970;1.000" values="1;1;0.15;0.15;1"/>
   </rect>
   <rect id="cell-353" x="821.0" y="70.0" width="12" height="12" rx="2.5" fill="#e6e9ee" stroke="#d0d7de" stroke-width="0.5">
@@ -1149,5 +1149,5 @@
     </animateMotion>
   </g>
 </g>
-<text x="460" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781" text-anchor="middle">52 weeks · 0 contributions</text>
+<text x="460" y="145" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="11" fill="#6e7781" text-anchor="middle">52 weeks · 243 contributions</text>
 </svg>
